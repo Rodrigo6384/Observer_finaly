@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PROYECTO_DONKEY.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{887F5D31-7B72-43A8-A828-C5AB23EF208D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PROYECTO_DONKEY.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PROYECTO_DONKEYEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3659232D-6FC7-4CC0-A666-E27FB436AE54}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PROYECTO_DONKEY">
+      <UniqueIdentifier>{06FE979C-05F3-467C-B0D3-F707C833B958}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PROYECTO_DONKEY\ITimerObserver.cpp">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROYECTO_DONKEY\ITimerObserver.h">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEY.Build.cs">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEY.cpp">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEY.h">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEYCharacter.cpp">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEYCharacter.h">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEYGameMode.cpp">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROYECTO_DONKEY\PROYECTO_DONKEYGameMode.h">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROYECTO_DONKEY\TimerHUD.cpp">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROYECTO_DONKEY\TimerHUD.h">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PROYECTO_DONKEY\TimerManagerR.cpp">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PROYECTO_DONKEY\TimerManagerR.h">
+      <Filter>Source\PROYECTO_DONKEY</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

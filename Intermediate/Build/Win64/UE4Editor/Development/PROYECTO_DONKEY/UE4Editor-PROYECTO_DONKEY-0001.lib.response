@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PROYECTO_DONKEY-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\PROYECTO_DONKEYEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\ITimerObserver.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\PROYECTO_DONKEY.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\PROYECTO_DONKEYCharacter.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\PROYECTO_DONKEYGameMode.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\TimerHUD.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\TimerManagerR.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\ITimerObserver.gen.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\PROYECTO_DONKEY.init.gen.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\PROYECTO_DONKEYCharacter.gen.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\PROYECTO_DONKEYGameMode.gen.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\TimerHUD.gen.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\TimerManagerR.gen.cpp.obj"
+"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\Default.rc2.res"
+/OUT:"C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\UE4Editor-PROYECTO_DONKEY-0001.lib"

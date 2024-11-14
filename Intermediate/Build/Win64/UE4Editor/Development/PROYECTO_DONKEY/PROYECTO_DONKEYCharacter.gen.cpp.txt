@@ -1,0 +1,13 @@
+C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Development\PROYECTO_DONKEY\Definitions.PROYECTO_DONKEY.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Source\PROYECTO_DONKEY/PROYECTO_DONKEYCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Source\PROYECTO_DONKEY\ITimerObserver.h
+C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Inc\PROYECTO_DONKEY\ITimerObserver.generated.h
+C:\Users\DAVID\Desktop\SIS_457\proyecto segundo parcial\PROYECTO_DONKEY\Intermediate\Build\Win64\UE4Editor\Inc\PROYECTO_DONKEY\PROYECTO_DONKEYCharacter.generated.h

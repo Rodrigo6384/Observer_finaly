@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PROYECTO_DONKEY",
+			"Path": "C:\\Users\\DAVID\\Desktop\\SIS_457\\proyecto segundo parcial\\PROYECTO_DONKEY\\Source\\PROYECTO_DONKEY.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PROYECTO_DONKEYEditor",
+			"Path": "C:\\Users\\DAVID\\Desktop\\SIS_457\\proyecto segundo parcial\\PROYECTO_DONKEY\\Source\\PROYECTO_DONKEYEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
